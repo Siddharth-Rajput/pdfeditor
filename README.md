@@ -1,2 +1,3 @@
 # pdfeditor
-These are simple Python Script to edit PDFs
+These are simple Python Script to edit PDFs.
+Pyhon scripts 
